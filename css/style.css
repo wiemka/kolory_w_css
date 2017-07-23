@@ -1,14 +1,24 @@
-div{
+div {
     margin-bottom: 5px;
 }
-#kolory_predefiniowane{
+
+#kolory_predefiniowane {
     width: 200px;
     height: 100px;
     background-color: red;
-   }
+}
 
-#kolory_heksadecymalne{
-       width: 200px;
+#kolory_heksadecymalne {
+    width: 200px;
     height: 100px;
-    background-color: #ffff37;
+    background-color: #ff7755;
+}
+
+#kolory_heksadecymalne_skrocone {
+    width: 200px;
+    height: 100px;
+    background-color: #f75;
+}
+
+
 }
