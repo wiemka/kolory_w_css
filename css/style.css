@@ -1,3 +1,7 @@
+body {
+    background-color: green;
+}
+
 div {
     margin-bottom: 5px;
 }
@@ -20,8 +24,14 @@ div {
     background-color: #f35;
 }
 
-#kolory_funkcja_rgb{
+#kolory_funkcja_rgb {
     width: 200px;
     height: 100px;
-    background-color: rgb(137,37,37);
+    background-color: rgb(137, 37, 37);
+}
+
+#kolory_funkcja_rgba {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(137, 37, 37, 0.5);
 }
