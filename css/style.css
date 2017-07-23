@@ -11,14 +11,17 @@ div {
 #kolory_heksadecymalne {
     width: 200px;
     height: 100px;
-    background-color: #ff7755;
+    background-color: #ff3355;
 }
 
 #kolory_heksadecymalne_skrocone {
     width: 200px;
     height: 100px;
-    background-color: #f75;
+    background-color: #f35;
 }
 
-
+#kolory_funkcja_rgb{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(137,37,37);
 }
